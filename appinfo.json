@@ -1,0 +1,17 @@
+{
+  "uuid": "2b2b5bb0-a90a-4f6c-bc89-3d1dbee0de79",
+  "shortName": "circle",
+  "longName": "circle",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
